@@ -1,1 +1,2 @@
-# Atria-College-Projects
+This repository contains my college projects and assignments.
+
